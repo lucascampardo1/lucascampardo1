@@ -1,5 +1,5 @@
 <h1 align="left">Olá meu nome é Lucas</h1>
-<h3 align="left">Sou dev Python e atualmente estou aprimorando minhas habilidades em Data Science</h3>
+<h3 align="left">Sou estudante de Engenharia da Computação e estou dia após dia aprimorando meus conhecimentos em Linux e administração de sistemas</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lucascampardo1&label=Profile%20views&color=0e75b6&style=flat" alt="lucascampardo1" /> </p>
 
