@@ -6,7 +6,7 @@
 
 - 🌱 Estudando diariamente sobre: **PHP, WordPress e JavaScript**
 
-- 💬 Sinta-se livre para me perguntar sobre: **WordPress e Elementor, HTML e CSS, PHP, PhpMyAdmin e gestão de hospedagens**
+- 💬 Sinta-se livre para me perguntar sobre: **WordPress e Elementor, HTML e CSS, PHP, PhpMyAdmin e gestão de hospedagens (Locaweb, Hostinger e WHM (cPanel)**
 
 - ⚡ Curiosidade sobre mim: **Divido meu tempo entre o trabalho, estudos e academia**
 
