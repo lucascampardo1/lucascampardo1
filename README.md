@@ -4,14 +4,18 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lucascampardo1&label=Profile%20views&color=0e75b6&style=flat" alt="lucascampardo1" /> </p>
 
-- 🌱 Estudando diariamente sobre: **PHP, WordPress e JavaScript**
+- 🌱 Estudando diariamente sobre: **PHP e WordPress**
 
-- 💬 Sinta-se livre para me perguntar sobre: **WordPress e Elementor, HTML e CSS, PHP, PhpMyAdmin e gestão de hospedagens (Locaweb, Hostinger e WHM (cPanel))**
+- 💬 Sinta-se livre para me perguntar sobre: **WordPress e Elementor, HTML e CSS, PHP, PhpMyAdmin e gestão de hospedagens**
 
-- ⚡ Curiosidade sobre mim: **Gym rat, jogador de LoL nas horas vagas, apaixonado pelo Palmeiras e por esportes em geral**
+- ⚡ Curiosidade sobre mim: **Gym rat e jogador de LoL nas horas vagas**
 
 <h3 align="left">Skills</h3>
-<p align="left">  </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=wordpress,php,laravel,git,figma" />
+  </a>
+</p>
 
 <h3 align="left">Conecte-se comigo</h3>
 <p align="left">
