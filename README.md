@@ -4,16 +4,16 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lucascampardo1&label=Profile%20views&color=0e75b6&style=flat" alt="lucascampardo1" /> </p>
 
-- 🌱 Estudando diariamente sobre: **PHP e WordPress**
+- 🌱 Estudando diariamente sobre: **Ruby on Rails, PHP e WordPress**
 
-- 💬 Sinta-se livre para me perguntar sobre: **WordPress e Elementor, HTML e CSS, PHP, PhpMyAdmin e gestão de hospedagens**
+- 💬 Sinta-se livre para me perguntar sobre: **WordPress e Elementor, HTML e CSS, PHP, PhpMyAdmin e cPanel**
 
-- ⚡ Curiosidade sobre mim: **Gym rat e jogador de LoL nas horas vagas**
+- ⚡ Curiosidades sobre mim: **Gym rat e apaixonado por carros de todos os tipos**
 
 <h3 align="left">Skills</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=wordpress,php,laravel,git,figma" />
+    <img src="https://skillicons.dev/icons?i=rails,wordpress,php,git,figma" />
   </a>
 </p>
 
