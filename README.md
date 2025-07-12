@@ -4,11 +4,12 @@
 Desenvolvedor WordPress apaixonado por tecnologia, sempre buscando aprender e compartilhar conhecimento.
 
 | Hard Skills ⚙️       | Soft Skills 🤝             |
-| -------------------- | -------------------------- |
+| :------------------: | :-----------------------: |
 | WordPress            | Aprendizado rápido         |
 | cPanel & FileZilla   | Trabalho em equipe         |
-| PHP        | Resolução de problemas     |
-| Engenharia de prompt | Comunicação assertiva |
+| PHP & Symfony        | Resolução de problemas     |
+| Engenharia de prompt | Comunicação e troca de ideias |
+
 
 ## 🏅 Certificações
 
