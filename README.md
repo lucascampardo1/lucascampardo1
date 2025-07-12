@@ -7,7 +7,7 @@ Desenvolvedor WordPress apaixonado por tecnologia, sempre buscando aprender e co
 | :------------------: | :-----------------------: |
 | WordPress            | Aprendizado rápido         |
 | cPanel & FileZilla   | Trabalho em equipe         |
-| PHP & Symfony        | Resolução de problemas     |
+| PHP     | Resolução de problemas     |
 | Engenharia de prompt | Comunicação e troca de ideias |
 
 
