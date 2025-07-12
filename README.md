@@ -14,7 +14,7 @@
 <h3 align="left">Skills</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=rails,wordpress,php,git,figma" />
+    <img src="https://skillicons.dev/icons?i=wordpress,html,css,php,rails,git" />
   </a>
 </p>
 
