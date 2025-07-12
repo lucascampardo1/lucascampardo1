@@ -1,5 +1,5 @@
 <h1 align="left">Olá meu nome é Lucas</h1>
-<h3 align="left">Sou desenvolvedor web com conhecimento em WordPress, HTML, CSS, JavaScript e PHP</h3>
+<h3 align="left">Sou desenvolvedor WordPress com conhecimento em HTML, CSS, PHP, Ruby on Rails e cPanel
 <h4 align="left">Atualmente cursando o 6° semestre de Engenharia da Computação</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lucascampardo1&label=Profile%20views&color=0e75b6&style=flat" alt="lucascampardo1" /> </p>
@@ -8,6 +8,7 @@
 
 - 💬 Sinta-se livre para me perguntar sobre: **WordPress e Elementor, HTML e CSS, PHP, PhpMyAdmin e cPanel**
 
+- :page_facing_up: Certificações: cPanel Professional (CPP) 2025
 - ⚡ Curiosidades sobre mim: **Gym rat e apaixonado por carros de todos os tipos**
 
 <h3 align="left">Skills</h3>
