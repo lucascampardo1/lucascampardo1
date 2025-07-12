@@ -12,7 +12,7 @@
 
 - 💬 Sinta-se livre para me perguntar sobre: **WordPress e Elementor, HTML e CSS, PHP, PhpMyAdmin e cPanel**
 
-- ⚡ Curiosidades sobre mim: **Gym rat e apaixonado por carros de todos os tipos**
+- ⚡ Curiosidades sobre mim: **Gym rat e apaixonado por automóveis**
 
 <h3 align="left">Skills</h3>
 <p align="left">
