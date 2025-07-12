@@ -1,17 +1,14 @@
 <h1 align="left">Olá meu nome é Lucas</h1>
 
 ## 💡 Sobre mim
-- Hard skills
-   - Desenvolvedor WordPress
-   - Conhecimento avançado em cPanel e FileZilla
-   - Conhecimento em PHP e Symfony
-   - Conhecimento em técnicas de engenharia de prompt
+Desenvolvedor WordPress apaixonado por tecnologia, sempre buscando aprender e compartilhar conhecimento.
 
-- Soft skills
-  - Facilidade para aprender novas tecnologias e ferramentas
-  - Facilidade em trabalhar tanto em equipe como individual
-  - Resolução de problemas
-  - Valorizo muito a troca de ideias antes de tomar decisões que afetam outras pessoas
+| Hard Skills ⚙️       | Soft Skills 🤝             |
+| -------------------- | -------------------------- |
+| WordPress            | Aprendizado rápido         |
+| cPanel & FileZilla   | Trabalho em equipe         |
+| PHP        | Resolução de problemas     |
+| Engenharia de prompt | Comunicação assertiva |
 
 ## 🏅 Certificações
 
@@ -28,5 +25,5 @@
 🤔 Um pouco mais sobre mim
 - Gym rat
 - Apaixonado por carros
-- 
+
 ![Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=lucascampardo1&show_icons=true&theme=transparent)
