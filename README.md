@@ -1,5 +1,3 @@
-<h1 align="left">Olá meu nome é Lucas</h1>
-
 ## 💡 Sobre mim
 Desenvolvedor WordPress apaixonado por tecnologia, sempre buscando aprender e compartilhar conhecimento.
 
