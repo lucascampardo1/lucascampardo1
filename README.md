@@ -17,7 +17,7 @@ Desenvolvedor WordPress apaixonado por tecnologia, sempre buscando aprender e co
 ## Minha stack
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=wordpress,html,css,php,rails,git" />
+    <img src="https://skillicons.dev/icons?i=wordpress,html,css,php,symfony,git" />
   </a>
 </p>
 
