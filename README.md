@@ -6,8 +6,8 @@ I am an extremely adaptable person, thriving both in independent work and collab
 
 Actually I work with WordPress Development but I'm also deepning my studies in privacy and data protection, learning about LGPD and GDPR, focusing on best practices for secure development and compliance.
 
-## Certifications
-- **cPanel Professional Certified (CPP):** Holder of the cPanel Professional certification, ensuring proficiency in web hosting management and server administration.
+## 🚀 Certifications
+**cPanel Professional Certified (CPP):** Holder of the cPanel Professional certification, ensuring proficiency in web hosting management and server administration.
 
 
 ## 🚩 Stack
@@ -22,13 +22,20 @@ Actually I work with WordPress Development but I'm also deepning my studies in p
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
 </p>
 
-## 🚀 Hard Skills
-
-
-
 ## 🤝 Let's Connect
 
 I'm always open to new opportunities, collaborations, and discussions about privacy, data protection, or web development.  
 Feel free to reach out!
 
----
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=lucascampardo1&show_icons=true&theme=midnight-purple"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=lucascampardo1&show_icons=true"
+    media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)"
+    
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=lucascampardo1&show_icons=true" />
+</picture>          
