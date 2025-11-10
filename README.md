@@ -4,19 +4,15 @@
 
 I am an extremely adaptable person, thriving both in independent work and collaborative team environments. My strong problem-solving skills enable me to tackle challenges efficiently, always aiming for effective and creative solutions.
 
-Actually I work with Network Admin and Helpdesk but also I'm learning C/C++ for embedded systems and Kotlin for mobile development.
+Actually I work with Network Admin and Helpdesk but also I'm learning C/C++ and Shell Scripting.
 
 ## 🚀 Certifications
 **cPanel Professional Certified (CPP):** Holder of the cPanel Professional certification, ensuring proficiency in web hosting management and server administration.
 
 
 ## 🚩 Stack
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" alt="Kotlin" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
-</p>
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,git,emacs,vim,bash,debian)](https://skillicons.dev)
+
 
 ## 🤝 Let's Connect
 
