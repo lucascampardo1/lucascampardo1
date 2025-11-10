@@ -20,7 +20,7 @@ I'm always open to new opportunities, collaborations, and discussions about priv
 Feel free to reach out!
 
 <div align="center">
-  <img height="230em" src="https://github-readme-stats.vercel.app/api?username=lucascampardo1&show_icons=true&theme=dracula">
-  <img height="230em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucascampardo1&layout=compact&theme=dracula"
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucascampardo1&show_icons=true&theme=dracula">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucascampardo1&layout=compact&theme=dracula"
 </div>
     
