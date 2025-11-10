@@ -19,15 +19,8 @@ Actually I work with Network Admin and Helpdesk but also I'm learning C/C++ and 
 I'm always open to new opportunities, collaborations, and discussions about privacy, data protection, or web development.  
 Feel free to reach out!
 
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=lucascampardo1&show_icons=true&theme=midnight-purple"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=lucascampardo1&show_icons=true"
-    media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)"
+<div align="center">
+  <img height="230em" src="https://github-readme-stats.vercel.app/api?username=lucascampardo1&show_icons=true&theme=dracula">
+  <img height="230em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucascampardo1&layout=compact&theme=dracula"
+</div>
     
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=lucascampardo1&show_icons=true" />
-</picture>          
