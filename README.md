@@ -11,7 +11,7 @@ Actually I work with Network Admin and Helpdesk but also I'm learning C/C++ and 
 
 
 ## 🚩 Stack
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,git,emacs,vim,bash,debian)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,git,bash,debian)](https://skillicons.dev)
 
 
 ## 🤝 Let's Connect
