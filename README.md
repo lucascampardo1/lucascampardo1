@@ -10,7 +10,7 @@ I am an extremely adaptable person, thriving both in independent work and collab
 
 
 ## 🚩 Stack
-[![My Skills](https://skillicons.dev/icons?i=cs,git,windows,powershell,bash,debian)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,git,windows,powershell,bash,redhat)](https://skillicons.dev)
 
 
 ## 🤝 Let's Connect
