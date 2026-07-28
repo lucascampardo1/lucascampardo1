@@ -5,4 +5,4 @@ Desenvolvo soluções em geoprocessamento e engenharia de dados geoespaciais, co
 Também atuo com análises espaciais, tratamento e automação de processos com Python e R, integrando dados, tecnologia e localização para apoiar tomadas de decisão.
 
 ## 🚩 Stack
-[![My Skills](https://skillicons.dev/icons?i=python,r,postgresql,js,git)](https://skillicons.dev)
+![icons](https://go-skill-icons.vercel.app/api/icons?i=python,git,sqlserver,javascript,typescript,scss)
